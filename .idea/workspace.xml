@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f257f814-c62b-4151-8345-3c1aa6f01214" name="Default" comment="" />
+    <list default="true" id="f257f814-c62b-4151-8345-3c1aa6f01214" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../URI Solution @rdnasim/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Area_1012.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Consumption_1014.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Sphere_1011.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/The_Greatest_1013.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../URI Solution @rdnasim/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../URI Solution @rdnasim/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../URI Solution @rdnasim/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,101 +19,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Area_of_a_Circle_1002.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Area_of_a_Circle_1002.java">
+      <file leaf-file-name="The_Greatest_1013.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/The_Greatest_1013.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="346">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Average_1_1005.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Average_1_1005.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Average_2_1006.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Average_2_1006.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Difference_1007.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Difference_1007.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Extremely_Basic_1001.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Extremely_Basic_1001.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Salary_1008.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Salary_1008.java">
+      <file leaf-file-name="Consumption_1014.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Consumption_1014.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Simple_Product_1004.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Simple_Product_1004.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Simple_Sum_1003.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Simple_Sum_1003.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Salary_with_Bonus_1009.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Salary_with_Bonus_1009.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Simple_Calculate_1010.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Simple_Calculate_1010.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -120,6 +47,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../URI Solution @rdnasim" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -144,6 +74,12 @@
         <option value="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Extremely_Basic_1001.java" />
         <option value="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Salary_with_Bonus_1009.java" />
         <option value="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Simple_Calculate_1010.java" />
+        <option value="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Sphere_1011.java" />
+        <option value="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Area_1012.java" />
+        <option value="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Sphere_1011.java" />
+        <option value="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Area_1012.java" />
+        <option value="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/The_Greatest_1013.java" />
+        <option value="$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Consumption_1014.java" />
       </list>
     </option>
   </component>
@@ -152,6 +88,9 @@
     <option name="y" value="40" />
     <option name="width" value="697" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -184,7 +123,7 @@
               <item name="URI Solution @rdnasim" type="b2602c69:ProjectViewProjectNode" />
               <item name="URI Solution @rdnasim" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution_1001_to_1010" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution_1011_to_1020" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,15 +153,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Simple_Calculate_1010">
-    <configuration name="Area_of_a_Circle_1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Consumption_1014">
+    <configuration name="Area_1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Solution_1001_to_1010.*" />
+          <option name="PATTERN" value="Solution_1011_to_1020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Solution_1001_to_1010.Area_of_a_Circle_1002" />
+      <option name="MAIN_CLASS_NAME" value="Solution_1011_to_1020.Area_1012" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../URI Solution @rdnasim" />
@@ -234,33 +173,14 @@
       <module name="URI Solution @rdnasim" />
       <envs />
     </configuration>
-    <configuration name="Extremely_Basic_1001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Consumption_1014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Solution_1001_to_1010.*" />
+          <option name="PATTERN" value="Solution_1011_to_1020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Solution_1001_to_1010.Extremely_Basic_1001" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../URI Solution @rdnasim" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="URI Solution @rdnasim" />
-      <envs />
-    </configuration>
-    <configuration name="Salary_with_Bonus_1009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Solution_1001_to_1010.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Solution_1001_to_1010.Salary_with_Bonus_1009" />
+      <option name="MAIN_CLASS_NAME" value="Solution_1011_to_1020.Consumption_1014" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../URI Solution @rdnasim" />
@@ -275,7 +195,7 @@
     <configuration name="Simple_Calculate_1010" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Solution_1001_to_1010.*" />
+          <option name="PATTERN" value="Solution_1011_to_1020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,14 +211,33 @@
       <module name="URI Solution @rdnasim" />
       <envs />
     </configuration>
-    <configuration name="Simple_Sum_1003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Sphere_1011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Solution_1001_to_1010.*" />
+          <option name="PATTERN" value="Solution_1011_to_1020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Solution_1001_to_1010.Simple_Sum_1003" />
+      <option name="MAIN_CLASS_NAME" value="Solution_1011_to_1020.Sphere_1011" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../URI Solution @rdnasim" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="URI Solution @rdnasim" />
+      <envs />
+    </configuration>
+    <configuration name="The_Greatest_1013" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Solution_1011_to_1020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Solution_1011_to_1020.The_Greatest_1013" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../URI Solution @rdnasim" />
@@ -391,19 +330,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Simple_Sum_1003" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Area_of_a_Circle_1002" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Extremely_Basic_1001" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Salary_with_Bonus_1009" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Simple_Calculate_1010" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Simple_Calculate_1010" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Sphere_1011" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Area_1012" />
+      <item index="3" class="java.lang.String" itemvalue="Application.The_Greatest_1013" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Consumption_1014" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Simple_Calculate_1010" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Salary_with_Bonus_1009" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Extremely_Basic_1001" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Area_of_a_Circle_1002" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Simple_Sum_1003" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Consumption_1014" />
+        <item index="1" class="java.lang.String" itemvalue="Application.The_Greatest_1013" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Area_1012" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Sphere_1011" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Simple_Calculate_1010" />
       </list>
     </recent_temporary>
   </component>
@@ -426,14 +365,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28289473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28289473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -559,6 +498,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Simple_Calculate_1010.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Sphere_1011.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Area_1012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Salary_with_Bonus_1009.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -567,10 +530,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1001_to_1010/Simple_Calculate_1010.java">
+    <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/The_Greatest_1013.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="346">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../URI Solution @rdnasim/src/Solution_1011_to_1020/Consumption_1014.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
