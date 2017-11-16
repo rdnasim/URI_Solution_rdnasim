@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f257f814-c62b-4151-8345-3c1aa6f01214" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/preferred-vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1011_to_1020/Banknotes_1018.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1011_to_1020/Distance_1016.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1011_to_1020/Distance_Between_Two_Points_1015.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1011_to_1020/Fuel_Spent_1017.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1011_to_1020/Time_Conversion_1019.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1011_to_1020/Age_in_Days_1020.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,7 +19,18 @@
     <favorites_list name="URI Solution @rdnasim" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Age_in_Days_1020.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Solution_1011_to_1020/Age_in_Days_1020.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -70,6 +76,7 @@
         <option value="$PROJECT_DIR$/src/Solution_1011_to_1020/Fuel_Spent_1017.java" />
         <option value="$PROJECT_DIR$/src/Solution_1011_to_1020/Banknotes_1018.java" />
         <option value="$PROJECT_DIR$/src/Solution_1011_to_1020/Time_Conversion_1019.java" />
+        <option value="$PROJECT_DIR$/src/Solution_1011_to_1020/Age_in_Days_1020.java" />
       </list>
     </option>
   </component>
@@ -169,27 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Time_Conversion_1019">
-    <configuration default="false" name="Distance_Between_Two_Points_1015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Solution_1011_to_1020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Solution_1011_to_1020.Distance_Between_Two_Points_1015" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="URI Solution @rdnasim" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Age_in_Days_1020">
     <configuration default="false" name="Distance_1016" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -258,6 +245,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Solution_1011_to_1020.Time_Conversion_1019" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="URI Solution @rdnasim" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Age_in_Days_1020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Solution_1011_to_1020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Solution_1011_to_1020.Age_in_Days_1020" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -490,19 +497,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Distance_Between_Two_Points_1015" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Distance_1016" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Fuel_Spent_1017" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Banknotes_1018" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Time_Conversion_1019" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Distance_1016" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Fuel_Spent_1017" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Banknotes_1018" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Time_Conversion_1019" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Age_in_Days_1020" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Time_Conversion_1019" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Banknotes_1018" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Fuel_Spent_1017" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Distance_1016" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Distance_Between_Two_Points_1015" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Age_in_Days_1020" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Time_Conversion_1019" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Banknotes_1018" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Fuel_Spent_1017" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Distance_1016" />
       </list>
     </recent_temporary>
   </component>
@@ -530,7 +537,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510772814877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated">
+      <created>1510854680993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1510854680993</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -543,7 +557,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="32" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -567,7 +582,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -788,6 +803,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Solution_1011_to_1020/Age_in_Days_1020.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
           <folding />
         </state>
       </provider>
