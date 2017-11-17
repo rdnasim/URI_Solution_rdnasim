@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f257f814-c62b-4151-8345-3c1aa6f01214" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Even_o_Odd_1074.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1021_1040/Average_3_1040.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1021_1040/Banknotes_and_Coin_1021.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1021_1040/Bhaskaras_Formula_1036.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1021_1040/Interval_1037.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1021_1040/Selection_Test_1_1035.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Solution_1021_1040/Snack_1038.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -650,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510856075993</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated">
+      <created>1510906393151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510906393151</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
